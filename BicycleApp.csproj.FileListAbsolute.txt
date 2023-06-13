@@ -1,0 +1,13 @@
+C:\Users\Lenovo\Documents\11a_UPRS\BicycleApp\BicycleApp\obj\Debug\netcoreapp3.1\BicycleApp.csprojAssemblyReference.cache
+C:\Users\Lenovo\Documents\11a_UPRS\BicycleApp\BicycleApp\obj\Debug\netcoreapp3.1\BicycleApp.BicycleForm.resources
+C:\Users\Lenovo\Documents\11a_UPRS\BicycleApp\BicycleApp\obj\Debug\netcoreapp3.1\BicycleApp.csproj.GenerateResource.cache
+C:\Users\Lenovo\Documents\11a_UPRS\BicycleApp\BicycleApp\obj\Debug\netcoreapp3.1\BicycleApp.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Documents\11a_UPRS\BicycleApp\BicycleApp\obj\Debug\netcoreapp3.1\BicycleApp.AssemblyInfo.cs
+C:\Users\Lenovo\Documents\11a_UPRS\BicycleApp\BicycleApp\obj\Debug\netcoreapp3.1\BicycleApp.csproj.CoreCompileInputs.cache
+C:\Users\PC-MM\OneDrive\Работен плот\BicycleApp\BicycleApp\obj\Debug\netcoreapp3.1\BicycleApp.csproj.AssemblyReference.cache
+C:\Users\PC-MM\OneDrive\Работен плот\BicycleApp\BicycleApp\obj\Debug\netcoreapp3.1\BicycleApp.BicycleForm.resources
+C:\Users\PC-MM\OneDrive\Работен плот\BicycleApp\BicycleApp\obj\Debug\netcoreapp3.1\BicycleApp.csproj.GenerateResource.cache
+C:\Users\PC-MM\OneDrive\Работен плот\BicycleApp\BicycleApp\obj\Debug\netcoreapp3.1\BicycleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC-MM\OneDrive\Работен плот\BicycleApp\BicycleApp\obj\Debug\netcoreapp3.1\BicycleApp.AssemblyInfoInputs.cache
+C:\Users\PC-MM\OneDrive\Работен плот\BicycleApp\BicycleApp\obj\Debug\netcoreapp3.1\BicycleApp.AssemblyInfo.cs
+C:\Users\PC-MM\OneDrive\Работен плот\BicycleApp\BicycleApp\obj\Debug\netcoreapp3.1\BicycleApp.csproj.CoreCompileInputs.cache
